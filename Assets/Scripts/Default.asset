@@ -13,5 +13,5 @@ MonoBehaviour:
   m_Name: Default
   m_EditorClassIdentifier: 
   highscore: 0
-  username: pawel
-  highscoreUser: pawel
+  username: 
+  highscoreUser: 
